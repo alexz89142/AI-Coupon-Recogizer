@@ -1,0 +1,1 @@
+C:\Users\Owner\source\repos\CouponRecogizer\CouponRecogizer.csproj;x64
