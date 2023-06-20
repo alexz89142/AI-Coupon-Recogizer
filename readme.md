@@ -1,5 +1,5 @@
 # AI Coupon Recognizer
-WIP. Written in C# using .NET Maui
+WIP. Written in C# using .NET Maui and ONNX model
 
 An Android app that uses AI to make the shopping process easier and more affordable by facilitating couponing!
 
